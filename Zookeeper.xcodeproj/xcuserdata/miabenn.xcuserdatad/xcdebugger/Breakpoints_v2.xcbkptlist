@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5FFA4D2-827A-47A6-B599-B94E09E20E7A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8075F2B8-6947-41B6-B626-74A53479CB76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zookeeper/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - cef67b91bd40f260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Zookeeper.ContentView.animals : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - f725db3554359717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.getter : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - 4b697d971f60184b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.setter : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - df83821133ef444a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.modify : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - 57cbae238102433"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.modify : Swift.Array&lt;Zookeeper.Animal&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - c87abdd20a1a1c73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.$animals.getter : SwiftUI.Binding&lt;Swift.Array&lt;Zookeeper.Animal&gt;&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "8075F2B8-6947-41B6-B626-74A53479CB76 - 3979f7b6897fd0be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.init() -&gt; Zookeeper.ContentView"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zookeeper/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "animalGroups"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - cef67b91bd40f260"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Zookeeper.ContentView.animals : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - f725db3554359717"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.getter : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - 4b697d971f60184b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.setter : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - df83821133ef444a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.modify : Swift.Array&lt;Zookeeper.Animal&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - 57cbae238102433"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.animals.modify : Swift.Array&lt;Zookeeper.Animal&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - c87abdd20a1a1c73"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.$animals.getter : SwiftUI.Binding&lt;Swift.Array&lt;Zookeeper.Animal&gt;&gt;"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "9B387906-BBC3-423C-A81A-D3CE7B7E9583 - 3979f7b6897fd0be"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.init() -&gt; Zookeeper.ContentView"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71FEBC4B-D978-4367-B928-031E774C80B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zookeeper/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "71FEBC4B-D978-4367-B928-031E774C80B7 - 3979f7b6897fd0be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.init() -&gt; Zookeeper.ContentView"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "71FEBC4B-D978-4367-B928-031E774C80B7 - 3d66f8bbc6f88d99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Zookeeper.ContentView.init(animals: Swift.Array&lt;Zookeeper.Animal&gt;) -&gt; Zookeeper.ContentView"
+                  moduleName = "Zookeeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miabenn/Desktop/Zookeeper/Zookeeper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
